@@ -1,7 +1,7 @@
 # Chrome RDP
 https://colab.research.google.com
 
-! wget https://github.com/laintuv00/LinuxRDP/raw/main/rdp-chrome.sh &> /dev/null
+! wget https://raw.githubusercontent.com/laintuv00/LinuxRDP/main/rdp-chrome.sh &> /dev/null
 
 ! chmod +x rdp-chrome.sh 
 
@@ -12,7 +12,7 @@ https://colab.research.google.com
 # Ngrok RDP
 https://www.katacoda.com/courses/ubuntu/playground
 
-! wget https://github.com/laintuv00/LinuxRDP/raw/main/rdp-ngrok.sh &> /dev/null
+! wget https://raw.githubusercontent.com/laintuv00/LinuxRDP/main/rdp-ngrok.sh &> /dev/null
 
 ! chmod +x rdp-ngrok.sh 
 
