@@ -1,4 +1,5 @@
 # Chrome RDP
+https://colab.research.google.com
 
 ! wget https://github.com/laintuv00/LinuxRDP/raw/main/rdp-chrome.sh &> /dev/null
 
@@ -9,6 +10,7 @@
 
 
 # Ngrok RDP
+https://www.katacoda.com/courses/ubuntu/playground
 
 ! wget https://github.com/laintuv00/LinuxRDP/raw/main/rdp-ngrok.sh &> /dev/null
 
